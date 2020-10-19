@@ -9,7 +9,7 @@ $strvalue1=str_replace('<input type="text" data-formula="e=mc^2" data-link="http
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Full Editor - Quill Rich Text Editor 2nd time</title>
+  <title>Full Editor - Quill Rich Text Editor 3rd time</title>
   <meta charset="utf-8">
 
 <link rel="stylesheet" href="css/quill.snow.css" />
